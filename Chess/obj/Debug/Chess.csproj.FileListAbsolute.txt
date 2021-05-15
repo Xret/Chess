@@ -1,0 +1,2 @@
+C:\Users\Xret\Desktop\Chess\Chess\obj\Debug\Chess.csprojAssemblyReference.cache
+C:\Users\Xret\Desktop\Chess\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
